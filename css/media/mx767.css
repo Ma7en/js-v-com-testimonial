@@ -1,0 +1,47 @@
+
+@media (max-width: 767px) {
+
+
+
+/* testim-2 */
+.testim-2 .cont {
+    width: 50%;
+    margin: auto;
+}
+
+.testim-2 .card {
+    flex-direction: column;
+}
+
+.testim-2 .card .card-thumb {
+    width: 100%;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.testim-2 .card .card-body {
+    width: 100%;
+    min-height: auto;
+    margin-left: 0;
+}
+
+
+/* testim- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
